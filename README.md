@@ -1,7 +1,7 @@
 ### Hey, welcome! 👋
 
 - 🔭 I’m currently working on back-end.
-- 🌱 I’m currently learning C# in Unity.
+- 🌱 I’m currently learning C#.
 - ⚡ Fun fact: I really do love my family, watch animes and play games! 
 
 <div align="center">
